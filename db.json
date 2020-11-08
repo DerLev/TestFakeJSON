@@ -1,0 +1,18 @@
+[
+    {
+        "port": 25565,
+        "status": true
+    },
+    {
+        "port": 25566,
+        "status": true
+    },
+    {
+        "port": 25567,
+        "status": true
+    },
+    {
+        "port": 25568,
+        "status": false
+    }
+]
